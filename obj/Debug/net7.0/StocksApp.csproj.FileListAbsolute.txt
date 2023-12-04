@@ -1,0 +1,14 @@
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/bin/Debug/net7.0/StocksApp
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/bin/Debug/net7.0/StocksApp.deps.json
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/bin/Debug/net7.0/StocksApp.runtimeconfig.json
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/bin/Debug/net7.0/StocksApp.dll
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/bin/Debug/net7.0/StocksApp.pdb
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/obj/Debug/net7.0/StocksApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/obj/Debug/net7.0/StocksApp.AssemblyInfoInputs.cache
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/obj/Debug/net7.0/StocksApp.AssemblyInfo.cs
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/obj/Debug/net7.0/StocksApp.csproj.CoreCompileInputs.cache
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/obj/Debug/net7.0/StocksApp.dll
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/obj/Debug/net7.0/refint/StocksApp.dll
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/obj/Debug/net7.0/StocksApp.pdb
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/obj/Debug/net7.0/StocksApp.genruntimeconfig.cache
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/obj/Debug/net7.0/ref/StocksApp.dll
