@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uMKM4pnQ54x7TvR7ZwivifbFozb56Rs9Gue6AVLnMEmk+52SeCKs8b9DHd3vMq+XgT1mIc2vSA4nRIE2O5XJJg==",
+  "dgSpecHash": "NQ6d9jXSgWaaEUd4NM/4G5GZuTvrZihYc359thCEaSmdK7J2ofhLIFDIxXgSg1zMeyenB/dg+XN0fAkS4Hv73g==",
   "success": true,
   "projectFilePath": "/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/StocksApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/spenstar/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
