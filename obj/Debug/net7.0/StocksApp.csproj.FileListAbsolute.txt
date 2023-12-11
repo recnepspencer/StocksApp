@@ -12,3 +12,7 @@
 /Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/obj/Debug/net7.0/StocksApp.pdb
 /Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/obj/Debug/net7.0/StocksApp.genruntimeconfig.cache
 /Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/obj/Debug/net7.0/ref/StocksApp.dll
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/bin/Debug/net7.0/MathNet.Numerics.dll
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/obj/Debug/net7.0/StocksApp.csproj.AssemblyReference.cache
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/obj/Debug/net7.0/StocksApp.csproj.CopyComplete
+/Users/spenstar/Documents/School/programming-with-classes/StocksApp/StocksApp/bin/Debug/net7.0/HtmlAgilityPack.dll
