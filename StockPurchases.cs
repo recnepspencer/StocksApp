@@ -7,6 +7,7 @@ namespace StocksApp
         public double PricePerShare { get; private set; }
         public double TotalCost => NumberOfShares * PricePerShare;
 
+        // Constructor
         public StockPurchase(string symbol, int numberOfShares, double pricePerShare)
         {
             Symbol = symbol;
@@ -17,8 +18,10 @@ namespace StocksApp
 
     public class StockPurchases
     {
+        // List to store purchases
         private List<StockPurchase> purchases = new List<StockPurchase>();
 
+        // Method to buy stock
         public void BuyStock(string symbol, int numberOfShares, double pricePerShare)
         {
             var purchase = new StockPurchase(symbol, numberOfShares, pricePerShare);

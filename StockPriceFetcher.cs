@@ -7,6 +7,7 @@ namespace StocksApp
 {
     public class StockPriceFetcher
     {
+        // Method to fetch the current price of a stock
         public async Task<decimal> GetPrice(string symbol)
         {
             try
@@ -23,6 +24,7 @@ namespace StocksApp
 
                 var priceNode = htmlDocument.DocumentNode.SelectSingleNode(xpath);
 
+                // Try to parse the value attribute first
                 if (priceNode != null && decimal.TryParse(priceNode.GetAttributeValue("value", ""), out decimal currentPrice))
                 {
                     return currentPrice;

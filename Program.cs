@@ -118,6 +118,7 @@ namespace StocksApp
                 Console.WriteLine("New stock data added successfully.");
             }
         }
+
         private static void LoadPurchases()
         {
             FileHandler fileHandler = new FileHandler();

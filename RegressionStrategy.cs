@@ -38,6 +38,7 @@ namespace StocksApp
 
             return predictions;
         }
+        // Method to calculate linear regression
         public static void LinearRegression(double[] xVals, double[] yVals,
                                             int inclusiveStart, int exclusiveEnd,
                                             out double rsquared, out double yintercept,
